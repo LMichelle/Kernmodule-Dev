@@ -1,0 +1,46 @@
+PlayerControl.cs	
+	Opening curly brace on same line, rearranged variables based on access modifier, added comments to announce new blocks, deleted unnecessary empty lines, rearranged variables based on access modifier and datatype
+
+AirEnemy.cs
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines, removed Debug.Log()'s
+
+Bookcase.cs 
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines and tabs, rearranged variables based on access modifier
+
+CameraBehaviour.cs
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines
+
+CameraPositionAdjustment.cs
+	Removed empty update function, opening curly brace on same line, added comments to announce new blocks
+
+Done.cs
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines
+	Want to rename class, classname is not descriptive
+
+Doors.cs
+	Removed extra semicolon, suprised it did not give an error, removed commented lines that I do not need any longer,
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines, rearranged variables based on access modifier and datatype
+	Wondering if I didn't nest too much.
+
+GetKey.cs
+	Opening curly brace on same line, added comments to announce new blocks, rearranged variables based on access modifier, deleted unnecessary empty lines
+
+isGrounded.cs
+	Fixed inconsistent line endings, Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines, deleted Debug.Log()
+	Want to change classname to IsGrounded.cs
+
+Reset.cs
+	Opening curly brace on same line, added comments to announce new blocks, removed commented lines that I do not need any longer
+
+Scene_Manager.cs
+	Not sure if the functions are Unity functions or my own. 
+	Opening curly brace on same line, added comments to announce new blocks
+	Want to change classname to SceneManager.cs
+
+showKeys.cs
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines
+	Want to change classname to ShowKeys.cs
+
+Ventilator.cs
+	Opening curly brace on same line, added comments to announce new blocks, deleted unnecessary empty lines, rearranged variables based on datatype
+
