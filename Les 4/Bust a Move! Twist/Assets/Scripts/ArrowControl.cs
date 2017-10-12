@@ -4,34 +4,20 @@ using UnityEngine;
 
 namespace BustAMove {
     public class ArrowControl : MonoBehaviour {
-        public float speed;
+        public float speed = 1.0f;
+        private float angle = 0.0f;
         public Transform shootPoint;
 
         public void Update() {
-            float horMove = Input.GetAxis("Horizontal");
-            Move(horMove);
-        }
-
-        public void Move(float axis) {
-            if (transform.eulerAngles.z <= -90) {
-                if (axis > 0) {
-                    axis = 0;
-                }
-            }
-            if (transform.eulerAngles.z >= 90) {
-                if (axis < 0) {
-                    axis = 0;
-                }
-            }
-            Debug.DrawRay(shootPoint.position, transform.up * 5, Color.red);
-            Debug.Log(transform.eulerAngles.z);
-            this.transform.Rotate(0.0f, 0.0f, -axis * speed);
-
-            //transform.Rotate(Vector3.right * axis * Time.deltaTime);
+            Move();
         }
 
 
-
+        public void Move() {
+            angle -= Input.GetAxis("Horizontal") * speed;
+            angle = Mathf.RoundToInt(angle);
+            angle = Mathf.Clamp(angle, -90, 90);
+            transform.rotation = Quaternion.Euler(0, 0, angle);
+        }
     }
 }
-
