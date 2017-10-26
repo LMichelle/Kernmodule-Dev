@@ -10,6 +10,7 @@ namespace BustAMove {
 
         public void Update() {
             Move();
+            Debug.DrawRay(shootPoint.position, transform.up * 5, Color.red);
         }
 
 

@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kayleigh\Desktop\BustAMoveTwist_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.190996 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.009481 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.419000 ms (FindLiveObjects: 0.033809 ms CreateObjectMapping: 0.025961 ms MarkObjects: 0.333268 ms  DeleteObjects: 0.024753 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614614 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1097.
+Total: 0.644197 ms (FindLiveObjects: 0.088147 ms CreateObjectMapping: 0.044073 ms MarkObjects: 0.481789 ms  DeleteObjects: 0.029583 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.810295 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.522844 ms (FindLiveObjects: 0.062789 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.352588 ms  DeleteObjects: 0.076072 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c64 -> priority: 1 
+  Thread -> id: 37a0 -> priority: 1 
