@@ -101,6 +101,11 @@ namespace BustAMove {
             foreach (GameObject node in nodesList) {
                 node.transform.position = new Vector2(node.transform.position.x, node.transform.position.y - 1);
             }
+
+            // also change all bubble colors
+            foreach (GameObject bub in allBubblesList) {
+                bub.GetComponent<BubbleColor>().DiscoBal();
+            }
         }
 
         void NewPlace(int x, int y) { // create a new node at the right position

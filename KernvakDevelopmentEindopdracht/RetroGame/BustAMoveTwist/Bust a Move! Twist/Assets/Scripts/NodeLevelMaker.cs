@@ -89,9 +89,10 @@ namespace BustAMove {
         public void DestroyBubble() {
             if (bubblesSameColorList.Count >= 2) {
                 foreach (GameObject bubble in bubblesSameColorList) {
-                    Grid.GetComponent<Grid>().points += 10;
+                    
                     Destroy(bubble);
                 }
+                Grid.GetComponent<Grid>().points += 10;
             }
         }
     }
