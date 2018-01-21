@@ -33,6 +33,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-/Library
-/.vs
-/Temp
+Bust a Move! Twist/Library
+Bust a Move! Twist/.vs
+Bust a Move! Twist/Temp
