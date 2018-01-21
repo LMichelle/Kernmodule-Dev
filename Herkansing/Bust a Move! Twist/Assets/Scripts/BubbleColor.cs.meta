@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dca3e3809d1ee594bb2bb7cc49502c82
+timeCreated: 1508768394
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteGreen: {fileID: 21300008, guid: cced3ff3c8ccfe945a932895de5f0945, type: 3}
+  - spriteBlue: {fileID: 21300004, guid: cced3ff3c8ccfe945a932895de5f0945, type: 3}
+  - spriteRed: {fileID: 21300000, guid: cced3ff3c8ccfe945a932895de5f0945, type: 3}
+  - spriteYellow: {fileID: 21300006, guid: cced3ff3c8ccfe945a932895de5f0945, type: 3}
+  - spriteOrange: {fileID: 21300002, guid: cced3ff3c8ccfe945a932895de5f0945, type: 3}
+  - spritePurple: {fileID: 21300012, guid: cced3ff3c8ccfe945a932895de5f0945, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

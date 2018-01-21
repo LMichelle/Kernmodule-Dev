@@ -1,0 +1,52 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Downloads\Bust a Move! Twist-20180121T132559Z-001\Bust a Move! Twist\Build\Bust A Move Twist_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.034566 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.347946 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.252839 ms (FindLiveObjects: 0.040296 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.182123 ms  DeleteObjects: 0.014222 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380444 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1102.
+Total: 0.357530 ms (FindLiveObjects: 0.046617 ms CreateObjectMapping: 0.020543 ms MarkObjects: 0.274172 ms  DeleteObjects: 0.015802 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.417178 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.318814 ms (FindLiveObjects: 0.034370 ms CreateObjectMapping: 0.014617 ms MarkObjects: 0.207012 ms  DeleteObjects: 0.062419 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 303c -> priority: 1 
+  Thread -> id: 2724 -> priority: 1 
+  Thread -> id: 598 -> priority: 1 
+  Thread -> id: 3008 -> priority: 1 
