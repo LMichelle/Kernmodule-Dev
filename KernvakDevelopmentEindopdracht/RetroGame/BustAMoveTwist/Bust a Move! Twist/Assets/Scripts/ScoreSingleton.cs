@@ -37,7 +37,7 @@ namespace BustAMove {
             }
 
             if (scoreText != null) {
-                scoreText.text = "Score Jippie! " + score.ToString();
+                scoreText.text = "Score: " + score.ToString();
             }
         }
 
