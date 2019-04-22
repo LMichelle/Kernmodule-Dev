@@ -1,5 +1,4 @@
 # Kernmodule-Dev
-Kernmodule Development Jaar 2 Blok 1 joehoe
+Kernmodule Development Jaar 2 Blok 1.
 
-Wel prachtig dat github al mijn foto's op landscape zet, helemaal top! Geen idee hoe ik dit moet fixen want ze staan local
-toch echt erin als portrait foto's :D
+Al de foto's worden op landscape gezet terwijl het origineel portrait is, en helaas kan ik niet vinden hoe ik dit kan fixen.
