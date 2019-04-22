@@ -40,7 +40,5 @@ namespace BustAMove {
                 scoreText.text = "Score: " + score.ToString();
             }
         }
-
-
     }
 }
